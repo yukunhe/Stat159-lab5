@@ -4,3 +4,5 @@ dog cat
 Banana
 
 orange
+
+I LOVE STRAWBERRIES!
